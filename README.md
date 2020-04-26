@@ -11,7 +11,7 @@ All the turnip price data was manually reported by Ling, fay, hera and Emily twi
 ### Columns
 date: The reported date
 
-price: The purchase (from Daisy Mae) or sale (to Nook's Cranny) price
+price: The sale (to Nook's Cranny) price or purchase (from Daisy Mae) price
 
 am_pm: 0 is am while 1 is pm
 
