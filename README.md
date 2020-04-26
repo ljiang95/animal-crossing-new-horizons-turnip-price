@@ -1,4 +1,4 @@
-# animal-crossing-new-horizon-turnip-price
+# animal-crossing-new-horizons-turnip-price
 ## Introduction
 The turnip price in Nintendo Switch Game - Animal Crossing: New Horizon 
 This set of data has characteristics of periodicity, trending, different patterns and random noise, which is perfect practice data for data scientist, analyst or enthusiast. 
