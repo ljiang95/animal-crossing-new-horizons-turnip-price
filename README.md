@@ -8,7 +8,7 @@ There are existed turnip price prediction models on the internet, which are base
 
 ## Data
 ### Acquisition
-All the turnip price data was manually reported by Ling, fay, hera and Emily twice a day. A small amount of data is missing due to island construction or other reasons. Please check whether there is any NaN before you build any model.
+All the turnip price data was manually reported by Ling, fay, hera and Emily twice a day. Only a small amount of data is missing due to island construction or other reasons. Please check whether there is any NaN before you build any model.
 ### Columns
 date: The reported date
 
