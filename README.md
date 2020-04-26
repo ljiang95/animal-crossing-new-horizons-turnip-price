@@ -13,11 +13,11 @@ date: The reported date
 
 price: The purchase (from Daisy Mae) or sale (to Nook's Cranny) price
 
-am_pm: 0 stands for am while 1 stands for pm
+am_pm: 0 is am while 1 is pm
 
-sale: 0 stands for purchase while 1 stands for sale
+purchase: 0 is sale while 1 is purchase
 
 user_code: The reported user
 
 ## Special Thanks
-fay, hera, Emily (超级无敌美少女)
+fay, hera, Emily
