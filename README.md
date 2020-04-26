@@ -8,7 +8,11 @@ This set of data has characteristics of periodicity, trending, different pattern
 All the turnip price data was manually reported by Ling, fay, hera and Emily twice a day. A small amount of data is missing due to island construction or other reasons. Please check whether there is any NaN before you build any model.
 ### Columns
 date: The reported date
+
 price: The purchase (from Daisy Mae) or sale (to Nook's Cranny) price
+
 am_pm: 0 stands for am while 1 stands for pm
+
 sale: 0 stands for purchase while 1 stands for sale
+
 user_code: The reported user
